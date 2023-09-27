@@ -2,24 +2,7 @@
 
 Build a weather app in react js using Open Weather API.
 
-## Follow Below Instructions:
-
-#### Use This command in cmd or terminal to download starter-code file:
-git clone --single-branch --branch starter-code https://github.com/codebucks27/React-Weather-app.git
-
 Then do npm install & npm start
-
-#### After that To build whole app You can follow below Tutorial.
-https://youtu.be/uZGhTYZ6eys
-
-#### Final Code
-https://github.com/codebucks27/React-Weather-app.git (On master branch)
-
-
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 
 In the project directory, you can run:
 
@@ -40,11 +23,6 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 Builds the app for production to the `build` folder.<br />
 It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
 
